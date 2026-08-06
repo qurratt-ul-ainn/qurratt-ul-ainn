@@ -30,15 +30,6 @@
 - 🧭 **Resource Management** — sustainable stewardship of soil, water, and land resources within agroecosystems
 - 🌍 **Global Change** — climatic and anthropogenic drivers reshaping soil processes, crop productivity, and food security
 - 🪨 **Soil Degradation** — spatial diagnosis and mitigation of fertility loss through pedometric and geospatial techniques
-
----
-
-### 🎓 Education
-
-**B.Sc. (Hons.) Agriculture — Soil Science**
-MNS University of Agriculture, Multan, Pakistan · CGPA 3.97/4.0
-Coursework: soil genesis and morphology · nutrient management in degraded soils · soil-water-environment conservation · GIS in soil survey and land-use planning
-
 ---
 
 ### 🛠️ Tools & Technologies
@@ -61,7 +52,6 @@ Coursework: soil genesis and morphology · nutrient management in degraded soils
 
 - 🌾 **Biochar & Okra Productivity** — pot-trial study monitoring growth parameters and soil chemistry to determine the biochar dosage that best improved yield and soil condition
 - 🌱 **Millet Tolerance to Soil pH** — greenhouse study assessing germination, biomass accumulation, and nutrient availability across acidic, neutral, and alkaline soils to identify the most favourable pH range
-- 🔗 **[Biochar & Soil Microbial Trial Analysis](https://github.com/your-username/biochar-soil-trial)** — reproducible R-based analysis of the biochar trial data, covering data cleaning, exploratory analysis, and statistical testing
 
 ---
 
@@ -71,19 +61,6 @@ Coursework: soil genesis and morphology · nutrient management in degraded soils
 - *Revealing the Fertility Status of Kanewal District's Lands through GIS-Based Study* — Pakistan Journal of Biotechnology
 - *Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques* — Abstract Book, ICSS
 - *Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops* — 2nd International Conference on Soil, Plant and Environmental Health
-
----
-
-### 🏆 Honors & Awards
-
-- 🏅 KNB Scholar 2026 — Universitas Padjadjaran, Indonesia
-- 🎖️ HonHar Scholarship — Government of Punjab
-- 🎖️ Merit-Based Scholarship — MNS University of Agriculture
-- 💻 Prime Minister Laptop Scheme Holder — Government of Punjab
-- 🥈 2nd Position, Poster Competition, World Soil Day
-- 🥇 1st Place, Model Competition, World Environment Day
-- 🥉 3rd Place, Poster Competition on Vegetation & Water in Climate Scenarios
-
 ---
 
 ### 📡 How to Reach Me
