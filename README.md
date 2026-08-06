@@ -3,9 +3,11 @@
 </p>
 
 <p align="center">
-  <strong>🌱 Soil Scientist</strong>
+  <strong> Soil Scientist</strong>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong>🛰️ Geospatial Land Assessment</strong>
+  <strong> Geospatial Risk Assessment</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong> Sustainable Land Management</strong>
 </p>
 
 <p align="center">
