@@ -129,7 +129,7 @@
 ---
 
 <p align="center">
- <i> **Open to research collaborations in Soil Science, GIS, Remote Sensing, Environmental Data Analysis, and Precision Agriculture.** </i>
+ <i> Open to research collaborations - Bridging Soil Science and Geospatial Intelligence for Climate-Resilient Agriculture. </i>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F766E,100:2E7D32"/>
