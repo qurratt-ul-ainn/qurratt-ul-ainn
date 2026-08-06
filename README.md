@@ -87,7 +87,7 @@
 - Sustainable Land Management
 - Climate Adaptation & Global Change
 - Resource Management using Spatial Analysis
-
+---
 ---
 
 # 📡 Connect with Me
