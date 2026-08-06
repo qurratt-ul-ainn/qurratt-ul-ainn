@@ -1,22 +1,22 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E7D32,100:00897B&height=200&section=header&text=Qurrat%20ul%20Ain&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
-  <strong> Soil Scientist</strong>
+  <strong>🌱 Soil Scientist</strong>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong> Geospatial Risk Assessment</strong>
+  <strong>🛰️ Geospatial Risk Assessment</strong>
   &nbsp;&nbsp;•&nbsp;&nbsp;
-  <strong> Sustainable Land Management</strong>
+  <strong>🌍 Sustainable Land Management</strong>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1200&color=B5651D&center=true&vCenter=true&width=600&height=30&lines=Decoding+Soil+Health+Through+Spatial+Analysis;Building+Climate-Resilient+Farmlands" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1200&color=C89B3C&center=true&vCenter=true&width=600&height=30&lines=Decoding+Soil+Health+Through+Spatial+Analysis;Building+Climate-Resilient+Farmlands" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E8B57?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-8B5E3C?style=flat" />
+  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E7D32?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-6D4C41?style=flat" />
 </p>
 
 ---
