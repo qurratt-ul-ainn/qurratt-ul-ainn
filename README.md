@@ -130,7 +130,7 @@
 ---
 
 <p align="center">
-🌾 <i>Open to research collaborations in Soil Science, GIS, Remote Sensing, Environmental Data Analysis, and Sustainable Agriculture.</i>
+🌾 <i>Open to research collaborations in Soil Science, GIS, Remote Sensing, Environmental Data Analysis, and Precision Agriculture.</i>
 </p>
 
 <p align="center">
