@@ -30,13 +30,13 @@
 ---
 
 # Research Interests
-
+```text
 - 🌱 **Soil Health & Fertility**
 - 🧭 **Natural Resource Management**
 - 🌍 **Climate Change & Sustainable Agriculture**
 - 🪨 **Soil Degradation Assessment**
 - 🛰️ **Spatial Analysis & Environmental Monitoring**
-
+```
 ---
 
 # 🛠️ Tools & Technologies
@@ -60,7 +60,7 @@
 ---
 
 # 🔬 Research Experience
-
+```text
 ### 🌾 Biochar & Okra Productivity
 
 - Conducted a pot experiment evaluating biochar application rates and their effects on plant growth, fertilizer-use efficiency, and soil chemical properties.
@@ -68,11 +68,11 @@
 ### 🌱 Millet Tolerance to Soil pH
 
 - Investigated the influence of acidic, neutral, and alkaline soils on millet germination, biomass production, and nutrient availability under greenhouse conditions.
-
+```
 ---
 
 # 📚 Publications
-
+```text
 - 📖 **Amelioration of Climate Change Impacts in Mango**  
   *Climate Change and Mango Production (Springer)*
 
@@ -84,7 +84,7 @@
 
 - 🌿 **Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops**  
   *2nd International Conference on Soil, Plant and Environmental Health*
-
+```
 ---
 
 # 📊 Research Focus
