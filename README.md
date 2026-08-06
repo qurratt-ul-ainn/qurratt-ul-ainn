@@ -3,18 +3,18 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=10&pause=1200&color=B5651D&center=true&vCenter=true&width=600&height=30&lines=Decoding+Soil+Health+Through+Spatial+Analysis;Building+Climate-Resilient+Farmlands" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=12&pause=1200&color=B5651D&center=true&vCenter=true&width=600&height=30&lines=Decoding+Soil+Health+Through+Spatial+Analysis;Building+Climate-Resilient+Farmlands" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2E8B57&style=flat" />
   <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E8B57?style=flat" />
   <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-8B5E3C?style=flat" />
 </p>
 
 ---
 
-# About Me:
+# About Me
+
 - Soil scientist trained in **Soil health management, nutrient cycling, and geospatial analysis**
 - Experienced in translating **remote sensing and field diagnostics** into practical strategies for soil fertility restoration and climate adaptation
 - Laboratory background in **HPLC, Spectrophotometry, Flame Photometry, and Nitrogen Distillation**, paired with **GIS-driven land-use assessment**
@@ -56,9 +56,11 @@
 # 🔬 Research Experience
 
 ### 🌾 Biochar & Okra Productivity
+
 - Conducted a pot experiment evaluating biochar application rates and their effects on plant growth, fertilizer-use efficiency, and soil chemical properties.
 
 ### 🌱 Millet Tolerance to Soil pH
+
 - Investigated the influence of acidic, neutral, and alkaline soils on millet germination, biomass production, and nutrient availability under greenhouse conditions.
 
 ---
@@ -68,7 +70,7 @@
 - 📖 **Amelioration of Climate Change Impacts in Mango**  
   *Climate Change and Mango Production (Springer)*
 
-- 📄 **Revealing the Fertility Status of Kanewal District's Lands through GIS-Based Study**  
+- 📄 **Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study**  
   *Pakistan Journal of Biotechnology*
 
 - 📑 **Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques**  
@@ -82,19 +84,20 @@
 # 📊 Research Focus
 
 ```text
-- Soil Health Management
-- GIS based Risk Assessment
-- Sustainable Land Management
-- Climate Adaptation & Global Change
-- Resource Management using Spatial Analysis
----
+• Soil Health Management
+• GIS-based Risk Assessment
+• Sustainable Land Management
+• Climate Adaptation & Global Change
+• Resource Management using Spatial Analysis
+```
+
 ---
 
 # 📡 Connect with Me
 
 <p align="center">
 
-<a href="https://github.com/your-username">
+<a href="https://github.com/qurratt-ul-ainn">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
@@ -115,5 +118,5 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=80&section=footer" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=80&section=footer"/>
 </p>
