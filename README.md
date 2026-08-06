@@ -1,25 +1,38 @@
+<!-- ========================================================= -->
+<!--                        HEADER                             -->
+<!-- ========================================================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B7A57,100:8B5A2B&height=170&section=header&text=Qurrat%20ul%20Ain&desc=Soil%20Scientist%20%7C%20GIS%20%26%20Spatial%20Analysis&fontSize=28&descSize=18&fontColor=ffffff&descColor=f5f5f5" />
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=270&color=0:2E8B57,35:4C956C,70:6A994E,100:B5651D&text=Qurrat%20ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=36&desc=Soil%20Scientist%20%7C%20Digital%20Soil%20Mapping%20%7C%20GIS%20%26%20Spatial%20Analysis&descAlignY=55&descSize=18"/>
+
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=8B5A2B&center=true&vCenter=true&width=760&lines=Soil+Science+%7C+GIS+%7C+Climate+Change;Digital+Soil+Mapping+for+Sustainable+Agriculture;Researching+Soil+Health+Through+Spatial+Analysis;R+Programming+%7C+Spatial+Data+Analysis" alt="Typing SVG" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3500&pause=1000&color=6A994E&center=true&vCenter=true&width=900&lines=🌱+Soil+Scientist;🛰️+GIS+%26+Spatial+Data+Analysis;🌍+Climate+Smart+Agriculture;🗺️+Digital+Soil+Mapping;📊+R+Programming+for+Environmental+Data;🌾+Researching+Healthy+Soils+for+a+Sustainable+Future" />
+
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8B5A2B&style=flat" />
-  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-8B5A2B?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-3B7A57?style=flat" />
+
+<img src="https://img.shields.io/badge/KNB%20Scholar-2026-8B5A2B?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Erasmus%20Mundus-IMSOGLO%20Applicant-2E8B57?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/Open%20to-Collaboration-6A994E?style=for-the-badge"/>
+
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🧭_Resource_Management-8D6E63?style=flat-square&labelColor=5D4037" />
-  <img src="https://img.shields.io/badge/🌍_Global_Change-1976D2?style=flat-square&labelColor=0D47A1" />
-  <img src="https://img.shields.io/badge/🪨_Soil_Degradation-B5651D?style=flat-square&labelColor=7A4419" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=qurratt-ul-ainn&theme=gruvbox&row=1&column=6&margin-w=15&margin-h=15&no-frame=true"/>
+
 </p>
+
 ---
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:B5651D&height=2&section=header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,30:4C956C,60:6A994E,100:B5651D&height=4"/>
 
 ---
 
@@ -95,9 +108,11 @@
 
 ## 📊 GitHub Statistics
 
+## 📊 GitHub Statistics
+
 <p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=qurratt-ul-ainn&show_icons=true&theme=vue&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=qurratt-ul-ainn&show_icons=true&theme=vue&hide_border=true&rank_icon=github"/>
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qurratt-ul-ainn&layout=compact&theme=vue&hide_border=true"/>
 
@@ -106,6 +121,12 @@
 <p align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=qurratt-ul-ainn&theme=vue&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=qurratt-ul-ainn&theme=vue"/>
 
 </p>
 
@@ -131,10 +152,5 @@
 
 ---
 
-<p align="center">
-<i>🌾 Open to collaborations in Soil Science, GIS, Digital Soil Mapping, Climate-Smart Agriculture, and Environmental Data Analytics.</i>
-</p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=90&section=footer"/>
-</p>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:B5651D,40:6A994E,100:2E8B57&height=130&section=footer"/>
