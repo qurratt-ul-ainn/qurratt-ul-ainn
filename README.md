@@ -92,8 +92,7 @@
 ```
 ---
 
-# 📊 Research Focus
-
+# Research Focus
 ```text
 • Soil Health Management
 • GIS-based Risk Assessment
@@ -101,9 +100,15 @@
 • Climate Adaptation & Global Change
 • Resource Management using Spatial Analysis
 ```
-
 ---
-
+# Currently Working On
+```text
+• Learning Advanced R for Statistical Analysis
+• GIS-based Soil Mapping and Risk Assessment
+• Foundation in Sustainable Soil management practices
+• Remote Sensing Applications for Resource Management
+```
+---
 # 📡 Connect with Me
 
 <p align="center">
