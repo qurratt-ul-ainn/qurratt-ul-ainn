@@ -20,13 +20,13 @@
 ---
 
 # About Me
-
+```text
 - Soil scientist trained in **Soil health management, nutrient cycling, and geospatial analysis**
 - Experienced in translating **remote sensing and field diagnostics** into practical strategies for soil fertility restoration and climate adaptation
 - Laboratory background in **HPLC, Spectrophotometry, Flame Photometry, and Nitrogen Distillation**, paired with **GIS-driven land-use assessment**
 - Focused on quantifying degradation patterns to support sustainable resource management under global environmental change
 - Selected as a **KNB Scholar (2026)** at Universitas Padjadjaran, Indonesia
-
+```
 ---
 
 # Research Interests
