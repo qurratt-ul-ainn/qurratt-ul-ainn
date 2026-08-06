@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&desc=Soil%20Scientist%20%7C%20GIS%20%26%20Spatial%20Analysis&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
