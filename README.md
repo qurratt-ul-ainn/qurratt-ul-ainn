@@ -21,21 +21,21 @@
 
 # About Me
 ```text
-- Soil scientist trained in **Soil health management, nutrient cycling, and geospatial analysis**
-- Experienced in translating **remote sensing and field diagnostics** into practical strategies for soil fertility restoration and climate adaptation
-- Laboratory background in **HPLC, Spectrophotometry, Flame Photometry, and Nitrogen Distillation**, paired with **GIS-driven land-use assessment**
+- Soil scientist trained in "Soil health management, nutrient cycling, and geospatial analysis"
+- Experienced in translating "remote sensing and field diagnostics" into practical strategies for soil fertility restoration and climate adaptation
+- Laboratory background in HPLC, Spectrophotometry, Flame Photometry, and Nitrogen Distillation, paired with GIS-driven land-use assessment
 - Focused on quantifying degradation patterns to support sustainable resource management under global environmental change
-- Selected as a **KNB Scholar (2026)** at Universitas Padjadjaran, Indonesia
+- Selected as a "KNB Scholar (2026)" at Universitas Padjadjaran, Indonesia
 ```
 ---
 
 # Research Interests
 ```text
-- 🌱 **Soil Health & Fertility**
-- 🧭 **Natural Resource Management**
-- 🌍 **Climate Change & Sustainable Agriculture**
-- 🪨 **Soil Degradation Assessment**
-- 🛰️ **Spatial Analysis & Environmental Monitoring**
+- 🌱 Soil Health & Fertility
+- 🧭 Natural Resource Management
+- 🌍 Climate Change & Sustainable Agriculture
+- 🪨 Soil Degradation Assessment
+- 🛰️ Spatial Analysis & Environmental Monitoring
 ```
 ---
 
@@ -61,11 +61,11 @@
 
 # 🔬 Research Experience
 ```text
-### 🌾 Biochar & Okra Productivity
+🌾 Biochar & Okra Productivity
 
 - Conducted a pot experiment evaluating biochar application rates and their effects on plant growth, fertilizer-use efficiency, and soil chemical properties.
 
-### 🌱 Millet Tolerance to Soil pH
+🌱 Millet Tolerance to Soil pH
 
 - Investigated the influence of acidic, neutral, and alkaline soils on millet germination, biomass production, and nutrient availability under greenhouse conditions.
 ```
@@ -73,17 +73,17 @@
 
 # 📚 Publications
 ```text
-- 📖 **Amelioration of Climate Change Impacts in Mango**  
-  *Climate Change and Mango Production (Springer)*
+- 📖 Amelioration of Climate Change Impacts in Mango 
+  Climate Change and Mango Production (Springer)
 
-- 📄 **Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study**  
-  *Pakistan Journal of Biotechnology*
+- 📄 Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study
+  Pakistan Journal of Biotechnology
 
-- 📑 **Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques**  
-  *ICSS Conference Abstract Book*
+- 📑 Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques 
+  ICSS Conference Abstract Book
 
-- 🌿 **Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops**  
-  *2nd International Conference on Soil, Plant and Environmental Health*
+- 🌿 Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops  
+  2nd International Conference on Soil, Plant and Environmental Health
 ```
 ---
 
