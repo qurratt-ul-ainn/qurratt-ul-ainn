@@ -133,6 +133,4 @@
 🌾 <i>Open to research collaborations in Soil Science, GIS, Remote Sensing, Environmental Data Analysis, and Precision Agriculture.</i>
 </p>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=120&section=footer"/>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&color=0:0F766E,100:2E7D32"/>
