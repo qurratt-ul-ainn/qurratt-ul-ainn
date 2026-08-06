@@ -104,9 +104,9 @@
 # Currently Working On
 ```text
 • Learning Advanced R for Statistical Analysis
-• GIS-based Soil Mapping and Risk Assessment
+• GIS-based Soil Mapping and Assessment
 • Foundation in Sustainable Soil management practices
-• Remote Sensing Applications for Resource Management
+• Fundamentals of Remote Sensing Applications in Precision Agriculture
 ```
 ---
 # 📡 Connect with Me
