@@ -1,23 +1,22 @@
-<!-- ========================= HEADER ========================= -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6A994E&height=220&section=header&text=Qurrat%20ul%20Ain&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Soil%20Scientist%20%7C%20Geospatial%20Researcher&descSize=17&descAlignY=58&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B7A57,100:8B5A2B&height=170&section=header&text=Qurrat%20ul%20Ain&desc=Soil%20Scientist%20%7C%20GIS%20%26%20Spatial%20Analysis&fontSize=28&descSize=18&fontColor=ffffff&descColor=f5f5f5" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1400&color=8B5E3C&center=true&vCenter=true&width=850&lines=Digital+Soil+Mapping+%7C+GIS+%7C+Remote+Sensing;Climate-Smart+Agriculture;Soil+Health+%26+Environmental+Data+Analysis;Researching+Sustainable+Land+Management" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&pause=1200&color=8B5A2B&center=true&vCenter=true&width=760&lines=Soil+Science+%7C+GIS+%7C+Climate+Change;Digital+Soil+Mapping+for+Sustainable+Agriculture;Researching+Soil+Health+Through+Spatial+Analysis;R+Programming+%7C+Spatial+Data+Analysis" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img width="700" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_GITHUB_USERNAME&label=Profile%20Views&color=8B5A2B&style=flat" />
+  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-8B5A2B?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-3B7A57?style=flat" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qurratt-ul-ainn&label=Profile%20Views&color=2E8B57&style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E8B57?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Erasmus%20Mundus-IMSOGLO%20Applicant-8B5E3C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧭_Resource_Management-8D6E63?style=flat-square&labelColor=5D4037" />
+  <img src="https://img.shields.io/badge/🌍_Global_Change-1976D2?style=flat-square&labelColor=0D47A1" />
+  <img src="https://img.shields.io/badge/🪨_Soil_Degradation-B5651D?style=flat-square&labelColor=7A4419" />
 </p>
-
 ---
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:B5651D&height=2&section=header"/>
