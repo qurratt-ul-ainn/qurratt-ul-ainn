@@ -1,16 +1,26 @@
+<!-- ========================= HEADER ========================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=165&section=header&text=Qurrat%20ul%20Ain&fontSize=34&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soil%20Scientist%20%7C%20Geospatial%20Researcher&descAlignY=58&descSize=15" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6A994E&height=220&section=header&text=Qurrat%20ul%20Ain&fontSize=36&fontColor=ffffff&fontAlignY=38&desc=Soil%20Scientist%20%7C%20Geospatial%20Researcher&descSize=17&descAlignY=58&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=10&pause=1200&color=B5651D&center=true&vCenter=true&width=700&height=35&lines=Decoding+Soil+Health+Through+Spatial+Analysis;Building+Climate-Resilient+Farmlands" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=13&pause=1400&color=8B5E3C&center=true&vCenter=true&width=850&lines=Digital+Soil+Mapping+%7C+GIS+%7C+Remote+Sensing;Climate-Smart+Agriculture;Soil+Health+%26+Environmental+Data+Analysis;Researching+Sustainable+Land+Management" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=qurratt-ul-ainn&label=Profile%20Views&color=2E8B57&style=flat" />
-  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E8B57?style=flat" />
-  <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-8B5E3C?style=flat" />
+  <img width="700" src="https://user-images.githubusercontent.com/74038190/240885248-ff1b5f32-9420-4dde-b2b9-ed2c0aa17459.gif">
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=qurratt-ul-ainn&label=Profile%20Views&color=2E8B57&style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E8B57?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Erasmus%20Mundus-IMSOGLO%20Applicant-8B5E3C?style=for-the-badge"/>
+</p>
+
+---
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:2E8B57,100:B5651D&height=2&section=header"/>
 
 ---
 
