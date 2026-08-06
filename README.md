@@ -1,5 +1,11 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&fontSize=40&fontColor=ffffff"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&fontSize=40&fontColor=ffffff"/>
+</p>
+
+<p align="center">
+  <strong>🌱 Soil Scientist</strong>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <strong>🛰️ Geospatial Land Assessment</strong>
 </p>
 
 <p align="center">
