@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&fontSize=40&fontColor=ffffff"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2E8B57,100:6B8E23&height=200&section=header&text=Qurrat%20ul%20Ain&desc=Soil%20Scientist%20%7C%20GIS%20%26%20Spatial%20Analysis&fontSize=40&fontColor=ffffff"/>
 </p>
 
 <p align="center">
@@ -14,25 +14,22 @@
 
 ---
 
-# 🌱 About Me
-
-- 🧭 Soil scientist trained in **pedology, nutrient cycling, and geospatial analysis**
-- 🛰️ Experienced in translating **remote sensing and field diagnostics** into practical strategies for soil fertility restoration and climate adaptation
-- 🧪 Laboratory background in **HPLC, Flame Photometry, and Nitrogen Distillation**, paired with **GIS-driven land-use assessment**
-- 🌍 Focused on quantifying degradation patterns to support sustainable resource management under global environmental change
-- 🎓 Pursuing further specialization through the **Erasmus Mundus IMSOGLO** programme
-- 🏅 Selected as a **KNB Scholar (2026)** at Universitas Padjadjaran, Indonesia
+# About Me:
+- Soil scientist trained in **Soil health management, nutrient cycling, and geospatial analysis**
+- Experienced in translating **remote sensing and field diagnostics** into practical strategies for soil fertility restoration and climate adaptation
+- Laboratory background in **HPLC, Flame Photometry, and Nitrogen Distillation**, paired with **GIS-driven land-use assessment**
+- Focused on quantifying degradation patterns to support sustainable resource management under global environmental change
+- Selected as a **KNB Scholar (2026)** at Universitas Padjadjaran, Indonesia
 
 ---
 
-# 🎯 Research Interests
+# Research Interests
 
 - 🌱 **Soil Health & Fertility**
 - 🧭 **Natural Resource Management**
 - 🌍 **Climate Change & Sustainable Agriculture**
-- 🛰️ **Remote Sensing & GIS Applications**
 - 🪨 **Soil Degradation Assessment**
-- 📊 **Spatial Analysis & Environmental Monitoring**
+- 🛰️ **Spatial Analysis & Environmental Monitoring**
 
 ---
 
@@ -85,16 +82,11 @@
 # 📊 Research Focus
 
 ```text
-🌱 Soil Health
-      │
-      ├────────► GIS & Remote Sensing
-      │
-      ├────────► Soil Fertility
-      │
-      ├────────► Climate Adaptation
-      │
-      └────────► Sustainable Land Management
-```
+- Soil Health Management
+- GIS based Risk Assessment
+- Sustainable Land Management
+- Climate Adaptation & Global Change
+- Resource Management using Spatial Analysis
 
 ---
 
