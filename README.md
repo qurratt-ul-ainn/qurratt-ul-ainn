@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=180&section=header&text=Qurrat%20ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soil%20Health%20%26%20Geospatial%20Research&descAlignY=58&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=180&section=header&text=Qurrat%20ul%20Ain&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Soil%20Health%20%26%20Geospatial%20Research&descAlignY=58&descSize=18" />
 </p>
 
 <p align="center">
@@ -7,8 +7,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=B5651D&style=flat" />
-  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-B5651D?style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=your-username&label=Profile%20Views&color=2E8B57&style=flat" />
+  <img src="https://img.shields.io/badge/KNB%20Scholar-2026-2E8B57?style=flat" />
   <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-8B5E3C?style=flat" />
 </p>
 
@@ -30,21 +30,12 @@
 - 🧭 **Resource Management** — sustainable stewardship of soil, water, and land resources within agroecosystems
 - 🌍 **Global Change** — climatic and anthropogenic drivers reshaping soil processes, crop productivity, and food security
 - 🪨 **Soil Degradation** — spatial diagnosis and mitigation of fertility loss through pedometric and geospatial techniques
+
 ---
 
 ### 🛠️ Tools & Technologies
 
-<img src="https://img.shields.io/badge/Python-2C7AC3?style=flat-square" />
-<img src="https://img.shields.io/badge/R-2C7AC3?style=flat-square" />
-<img src="https://img.shields.io/badge/MySQL-2C7AC3?style=flat-square" />
-<img src="https://img.shields.io/badge/Git-2C7AC3?style=flat-square" />
-<img src="https://img.shields.io/badge/ArcGIS-6F4E37?style=flat-square" />
-<img src="https://img.shields.io/badge/WaPOR-6F4E37?style=flat-square" />
-<img src="https://img.shields.io/badge/SPSS-B5651D?style=flat-square" />
-<img src="https://img.shields.io/badge/SigmaPlot-B5651D?style=flat-square" />
-<img src="https://img.shields.io/badge/STATISTIX-B5651D?style=flat-square" />
-<img src="https://img.shields.io/badge/HPLC-8B5E3C?style=flat-square" />
-<img src="https://img.shields.io/badge/GC--MS-8B5E3C?style=flat-square" />
+<img src="https://img.shields.io/badge/Python-2C7AC3?style=flat-square" /> <img src="https://img.shields.io/badge/R-2C7AC3?style=flat-square" /> <img src="https://img.shields.io/badge/MySQL-2C7AC3?style=flat-square" /> <img src="https://img.shields.io/badge/Git-2C7AC3?style=flat-square" /> <img src="https://img.shields.io/badge/ArcGIS-6F4E37?style=flat-square" /> <img src="https://img.shields.io/badge/WaPOR-6F4E37?style=flat-square" /> <img src="https://img.shields.io/badge/SPSS-B5651D?style=flat-square" /> <img src="https://img.shields.io/badge/SigmaPlot-B5651D?style=flat-square" /> <img src="https://img.shields.io/badge/STATISTIX-B5651D?style=flat-square" /> <img src="https://img.shields.io/badge/HPLC-8B5E3C?style=flat-square" /> <img src="https://img.shields.io/badge/GC--MS-8B5E3C?style=flat-square" />
 
 ---
 
@@ -61,6 +52,7 @@
 - *Revealing the Fertility Status of Kanewal District's Lands through GIS-Based Study* — Pakistan Journal of Biotechnology
 - *Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques* — Abstract Book, ICSS
 - *Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops* — 2nd International Conference on Soil, Plant and Environmental Health
+
 ---
 
 ### 📡 How to Reach Me
@@ -72,5 +64,5 @@
 <p align="center"><i>🌾 Open to research collaborations in soil science, agronomy, GIS, and environmental data analysis.</i></p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5E3C&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2E8B57&height=100&section=footer" />
 </p>
