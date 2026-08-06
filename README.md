@@ -33,15 +33,15 @@
 
 # Research Interests
 ```text
-- 🌱 Soil Health & Fertility
-- 🧭 Natural Resource Management
-- 🌍 Climate Change & Sustainable Agriculture
-- 🪨 Soil Degradation Assessment
-- 🛰️ Spatial Analysis & Environmental Monitoring
+- Soil Health and Fertility
+- Natural Resource Management
+- Climate Change & Sustainable Agriculture
+- Soil Degradation Assessment
+- Spatial Analysis & Environmental Monitoring
 ```
 ---
 
-# 🛠️ Tools & Technologies
+# Tools & Technologies
 
 <p align="left">
 
@@ -63,28 +63,31 @@
 
 # 🔬 Research Experience
 ```text
-🌾 Biochar & Okra Productivity
+1. Biochar & Okra Productivity
 
 - Conducted a pot experiment evaluating biochar application rates and their effects on plant growth, fertilizer-use efficiency, and soil chemical properties.
 
-🌱 Millet Tolerance to Soil pH
+2. Millet Tolerance to Soil pH
 
 - Investigated the influence of acidic, neutral, and alkaline soils on millet germination, biomass production, and nutrient availability under greenhouse conditions.
+
+3. Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study
+ - Performed GIS-based spatial analysis and thematic mapping of soil fertility indicators for research on district-level soil fertility assessment.
 ```
 ---
 
-# 📚 Publications
+# Publications
 ```text
-- 📖 Amelioration of Climate Change Impacts in Mango 
+1. Amelioration of Climate Change Impacts in Mango 
   Climate Change and Mango Production (Springer)
 
-- 📄 Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study
+2. Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study
   Pakistan Journal of Biotechnology
 
-- 📑 Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques 
+3. Pesticide Residues Analysis of Maize Samples from Sahiwal District Using Mass Spectrometry Techniques 
   ICSS Conference Abstract Book
 
-- 🌿 Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops  
+4. Conservation Strategies of Insect Pollinators and Methodologies for Effective Monitoring of Pest and Diseased Crops  
   2nd International Conference on Soil, Plant and Environmental Health
 ```
 ---
