@@ -71,6 +71,7 @@
 - Investigated the influence of acidic, neutral, and alkaline soils on millet germination, biomass production, and nutrient availability under greenhouse conditions.
 
 3. Revealing the Fertility Status of Khanewal District's Lands through GIS-Based Study
+
  - Performed GIS-based spatial analysis and thematic mapping of soil fertility indicators for research on district-level soil fertility assessment.
 ```
 ---
