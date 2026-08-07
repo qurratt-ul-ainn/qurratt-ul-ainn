@@ -60,7 +60,7 @@
 
 ---
 
-# 🔬 Research Experience
+# Research Experience
 ```text
 1. Biochar & Okra Productivity
 
@@ -109,7 +109,7 @@
 • Fundamentals of Remote Sensing Applications in Precision Agriculture
 ```
 ---
-# 📡 Connect with Me
+# Connect with Me
 
 <p align="center">
 
