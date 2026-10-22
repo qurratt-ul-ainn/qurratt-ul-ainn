@@ -16,7 +16,6 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/KNB%20Scholar-2026-0F766E?style=flat&logo=google-scholar&logoColor=white" />
-  <img src="https://img.shields.io/badge/Status-Applying%20to%20Erasmus%20Mundus-8D6E63?style=flat&logo=graduationcap&logoColor=white" />
 </p>
 
 ---
